@@ -1,0 +1,5 @@
+cortex (0.1) UNRELEASED; urgency=low
+
+  * Initial creation of debian packaging
+
+ -- Srdjan Grubor <sgnn7@sgnn7.org>  Mon, 24 Feb 2014 19:56:21 -0600

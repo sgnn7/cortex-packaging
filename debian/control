@@ -1,0 +1,18 @@
+Source: cortex
+Section: net
+Priority: optional
+Maintainer: Lucas de Vries <lucas@glacicle.org>
+Uploaders: Srdjan Grubor <sgnn7@sgnn7.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.8.3
+Homepage: https://github.com/GGLucas/cortex
+Vcs-Browser: https://github.com/GGLucas/cortex
+Vcs-Git: https://github.com/GGLucas/cortex.git
+
+Package: cortex
+Architecture: all
+Depends: python3
+Description: Simple application to browse through Reddit articles
+ Cortex is a simple application to keep track and browse through reddit
+ article lists where one would usually need to open a web browser and
+ possibly use a mouse to navigate.

@@ -1,0 +1,6 @@
+cortex/
+files
+*substvars
+*.log
+*~
+*.swp

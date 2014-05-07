@@ -1,3 +1,9 @@
+cortex (0.1.1) UNRELEASED; urgency=low
+
+  * Various crash fixes
+
+ -- Srdjan Grubor <sgnn7@sgnn7.org>  Wed, 6 May 2014 19:56:21 -0600
+
 cortex (0.1) UNRELEASED; urgency=low
 
   * Initial creation of debian packaging
